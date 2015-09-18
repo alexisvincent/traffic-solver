@@ -1,0 +1,6 @@
+{
+  "esnext": true,
+  "ignoreDelimiters": [
+    { "start": "start-ignore", "end": "end-ignore" }
+  ]
+}
